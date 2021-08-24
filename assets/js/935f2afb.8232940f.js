@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[53],{1109:function(e){e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","banner":"none","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Shop Plugin Info","href":"/docs/intro"},{"type":"link","label":"Commands","href":"/docs/Commands"}]}}')}}]);
